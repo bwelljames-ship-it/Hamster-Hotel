@@ -1,0 +1,121 @@
+.NavyBlue{
+    background-color:#000324;
+}
+.centerNav{
+    justify-content:center
+}
+.Navylayout{
+    /* top: 0px;
+    left: 0px; */
+    width: 100%;
+    height: 120px;
+    background-color:#000324;
+}
+.Row1{
+    background-color: blue;
+    
+}
+.Row2{
+    background-color: blueviolet;
+}
+.logo{
+
+    width: 143px;
+    height: 100px;
+}
+.whiteText{
+    color: white
+}
+.WhiteOutline{
+  border: 2px solid #E5FEFF;
+
+}
+.pool{
+    width: 100%;
+    height: 500px;
+    justify-content:center;
+    
+}
+.headerImage{
+    background-image:url(/hotelMarkupAssets/header.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* width: 100%; */
+    background-size: cover;
+    height: 500px;
+    
+}
+.NavBar{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 120px;
+}
+.PoolBox{
+    background-color: #000324;
+    width: 1000px;
+    height: 190px;
+    opacity: 1;
+
+}
+.Centerpool{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 100%;
+}
+.textCenter{
+    display: flex;
+    justify-content:center; 
+    align-items: center;
+}
+WhiteBox1{
+    background-image:url(/hotelMarkupAssets/header.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* width: 100%; */
+    background-size: cover;
+    height: 500px;
+}
+
+.RoomBackground{
+    background-image:url(/hotelMarkupAssets/bg2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* width: 100%; */
+    background-size: cover;
+    height: 500px;
+}
+.Happyhamster{
+    background-image:url(/hotelMarkupAssets/hamsterhomejpg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* width: 100%; */
+    background-size: cover;
+    height: 400px;
+}
+.nometext{
+    font: Dosis, Regular;
+}
+
+.Navbuttons{
+    display: flex;
+    justify-content: space-between;
+}
+.navBarLayout{
+    display: flex;
+    justify-content: space-around;
+    /* align-items: flex-start; */
+    /* flex-direction: row; */
+}
+.texttop{
+    display: flex;
+    justify-content:center; 
+    align-items:center;
+}
+.cardrow{
+    display: flex;
+    flex-direction: row;
+    justify-content:center; 
+    align-items:center;
+}
