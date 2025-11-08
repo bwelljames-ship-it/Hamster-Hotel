@@ -119,3 +119,22 @@ WhiteBox1{
     justify-content:center; 
     align-items:center;
 }
+
+.packages{
+    
+    width: 75%;
+    height: 30%;
+}
+.Packagesyap{
+    width: 561px;
+    height: 95px;
+}
+.Moveleft{
+    display: flex;
+    flex-direction: row;
+    justify-content:center; 
+    align-items:center;
+}.top{
+    display: flex;
+    justify-content:flex-end;
+}
