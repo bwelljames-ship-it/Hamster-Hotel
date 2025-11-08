@@ -152,3 +152,16 @@ WhiteBox1{
     height:200px
     
 }
+.crap{
+    background-image:url(/hotelMarkupAssets/hamsterspring.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:490px;
+    height:200px
+    
+}
+.logo2{
+
+    width: 243px;
+    height: 200px;
+}
