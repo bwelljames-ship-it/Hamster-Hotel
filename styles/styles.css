@@ -138,3 +138,17 @@ WhiteBox1{
     display: flex;
     justify-content:flex-end;
 }
+.lineup{
+    display: flex;
+    justify-content:;
+    flex-direction: column;
+    align-items:center;
+}
+.weding{
+    background-image:url(/hotelMarkupAssets/hamsterwedding.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:490px;
+    height:200px
+    
+}
