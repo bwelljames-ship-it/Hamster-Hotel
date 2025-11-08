@@ -161,7 +161,49 @@ WhiteBox1{
     
 }
 .logo2{
-
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
     width: 243px;
     height: 200px;
+}
+.Textboxwow{
+    background-color: #000324;
+    width: 1000px;
+    height: 190px;
+    opacity: 1;
+}
+.center{
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    align-items:center;
+}
+.coolrow{
+    display: flex;
+    flex-direction: row;
+}
+.cardcrap{
+    background-image:url(/hotelMarkupAssets/hamsterhomejpg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* width: 100%; */
+    background-size: cover;
+    height: 400px;
+}
+.NiceBro{
+    background-image:url(/hotelMarkupAssets/hamstercheese.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:490px;
+    height:200px
+    
+}
+.linedown{
+}
+.rightmove{
+    display: flex;
+    justify-content:flex-end; 
+    align-items:flex-end;
 }
